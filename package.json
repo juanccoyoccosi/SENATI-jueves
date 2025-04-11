@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/package.json",
   "name": "clases-jueves",
   "version": "1.0.0",
   "description": "primer paquete nodejs",
@@ -9,7 +10,22 @@
     "02": "nodemon 02.js",
     "03": "nodemon 03.js",
     "04": "nodemon 04.js",
-    "05": "nodemon 05.js"
+    "05": "nodemon 05.js",
+  "06": "nodemon 06.js",
+  "07": "nodemon 07.js",
+  "08": "nodemon 08.js",
+  "09": "nodemon 09.js",
+  "10": "nodemon 10.js",
+  "11": "nodemon 11.js",
+  "12": "nodemon 12.js",
+  "13": "nodemon 13.js",
+  "14": "nodemon 14.js",
+  "15": "nodemon 15.js",
+  "16": "nodemon 16.js",
+  "17": "nodemon 17.js",
+  "18": "nodemon 18.js",
+  "19": "nodemon 19.js",
+  "20": "nodemon 20.js"
   },
   
   "repository": {
